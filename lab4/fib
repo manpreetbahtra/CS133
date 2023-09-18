@@ -1,0 +1,22 @@
+#!/bin/bash
+function fib (n) {
+    if ($n <=0) 
+    then 
+        echo "0"
+    else if ($n ==1)
+    then 
+        echo "1"
+    else 
+        echo fib(n-1) + fib(n-2) 
+    fi
+    
+}
+
+function main {
+    echo "What fib should I calculate?"
+    read n
+    fib $n
+    exit 0
+}
+main()
+fib()

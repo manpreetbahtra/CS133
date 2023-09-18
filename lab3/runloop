@@ -1,0 +1,3 @@
+#!/bin/bash
+javac Loop.java
+java Loop

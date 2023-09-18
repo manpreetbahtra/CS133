@@ -1,0 +1,5 @@
+total 12
+-rwx------ 1 u2208321 dcsugrad 286 Oct 31 11:37 fib
+-rwxr-xr-x 1 u2208321 dcsugrad 202 Nov  7 10:16 fib2.sh
+-rwx------ 1 u2208321 dcsugrad 301 Oct 31 11:58 fibonacci
+-rw------- 1 u2208321 dcsugrad   0 Nov  7 10:29 permissions.txt

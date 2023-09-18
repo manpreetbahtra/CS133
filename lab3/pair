@@ -1,0 +1,15 @@
+#!/bin/sh
+read -p "Enter First Numeric Value: "  first
+read -p "Enter Second Numeric Value: "  second
+ 
+if [ $first -le 9 ]  && [ $first -gt -1 ]
+then
+    if [ $second -le 9 ]  && [ $second -gt -1 ]
+    then
+        echo "ok"
+    else
+        echo "error1"
+    fi
+else
+    echo "error2"
+fi
