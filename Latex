@@ -1,0 +1,17 @@
+\documentclass[12pt, twocolumn]{article}
+
+\title{learnlatex}
+\author{Manpreet Bahtra}
+\date{November 2022}
+
+\section{Learn LATEX}
+\subsection{Sub Section Title2}
+\subsubsection{Sub Sub Section Title3}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\end{document}
